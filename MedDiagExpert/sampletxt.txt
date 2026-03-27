@@ -1,0 +1,8 @@
+Name: Alice
+Age: 22
+Gender: Female
+Blood Group: B+
+Email: alice@gmail.com
+Chief Complaint: Fever and body pain
+Symptoms: Fever, Headache, Body Pain, Vomiting
+Medical History: None
